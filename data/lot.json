@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "img": "lot1",
+    "sku": "SKP05432",
+    "title": "«Алжирские женщины (Версия О)», Пабло Пикассо",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=0"
+  },
+  {
+    "id": "1",
+    "img": "lot2",
+    "sku": "SKP15132",
+    "title": "«Крик» Эдварда Мунка",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=1"
+  },
+  {
+    "id": "2",
+    "img": "lot3",
+    "sku": "SKP103071",
+    "title": "Поющий дворецкий",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=2"
+  },
+  {
+    "id": "3",
+    "img": "lot4",
+    "sku": "SKP103071",
+    "title": "«Алжирские женщины (Версия О)», Пабло Пикассо",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=3"
+  },
+  {
+    "id": "4",
+    "img": "lot5",
+    "sku": "SKP103071",
+    "title": "«Крик» Эдварда Мунка",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=4"
+  },
+  {
+    "id": "5",
+    "img": "lot6",
+    "sku": "SKP103071",
+    "title": "Поющий дворецкий",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=5"
+  },
+  {
+    "id": "6",
+    "img": "lot7",
+    "sku": "SKP103071",
+    "title": "«Алжирские женщины (Версия О)», Пабло Пикассо",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=6"
+  },
+  {
+    "id": "7",
+    "img": "lot8",
+    "sku": "SKP103071",
+    "title": "«Крик» Эдварда Мунка",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=7"
+  },
+  {
+    "id": "8",
+    "img": "lot9",
+    "sku": "SKP103071",
+    "title": "Поющий дворецкий",
+    "current": "250 000 RUB",
+    "url": "single-page.html?id=8"
+  }
+]
